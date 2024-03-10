@@ -1,4 +1,4 @@
-module productsvc
+module github.com/serjyuriev/go-marketplace/productsvc
 
 go 1.22
 

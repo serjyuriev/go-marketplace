@@ -4,7 +4,7 @@ import (
 	"errors"
 	"github.com/Rhymond/go-money"
 	"github.com/google/uuid"
-	mperr "productsvc/internal/pkg/errors"
+	mperr "github.com/serjyuriev/go-marketplace/productsvc/internal/pkg/errors"
 )
 
 // Product представляет собой товарную единицу маркетплейса.

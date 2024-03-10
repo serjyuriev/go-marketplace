@@ -2,8 +2,8 @@ package models
 
 import (
 	"errors"
+	mperr "github.com/serjyuriev/go-marketplace/productsvc/internal/pkg/errors"
 	"github.com/stretchr/testify/assert"
-	mperr "productsvc/internal/pkg/errors"
 	"testing"
 )
 
